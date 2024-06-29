@@ -1,0 +1,39 @@
+.pooja{
+    background-image: url(https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/diwali-bg.png);
+    height: 40vh;
+    background-size: cover;
+    
+}
+
+.riya{
+    color: antiquewhite;
+}
+
+.ri{
+    background-color:#e6f6ff     ;
+    border-radius: 2px;
+    
+    
+}
+.card-box{
+    margin: 20px;
+    background-color: white ;
+    height: 25vh;
+    width: 15vw;
+    border-radius: 8px;
+   
+}
+.heading_color{
+    color:black;
+}
+
+.ballon-img{
+    height: 15vh;
+    width: 15vw;
+}
+.mg{
+    margin: 30px;
+}
+/* .padd{
+    padding: 25px;
+} */

@@ -1,0 +1,21 @@
+p{
+    color: brown;
+    border: solid ;
+}
+/* element selector */
+
+#firstPara{
+    color: blue;
+}
+/* id selector */
+
+.bgBlue{
+    color: yellow;
+    background-color: aqua;
+}
+/* class slector */
+
+footer, span{
+    background-color: rgb(216, 86, 173);
+}
+/* grouping element selector */

@@ -1,0 +1,22 @@
+.p{
+    border-style: solid;
+    
+    padding: 10px;
+    border-width: 5px;
+    border-color: black;
+    height: 150px;
+    width: 200px;
+    /* overflow: scroll; */
+    overflow-y: scroll;
+}
+
+.word{
+    border: 2px solid blue;
+    font-size: 48px;
+    width: 100px;
+    padding: 4px;
+}
+
+.h-overflow{
+    overflow-x: scroll;
+}

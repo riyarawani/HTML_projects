@@ -1,0 +1,14 @@
+#firstpara{
+    color: brown;
+}
+/* we can given color by using colour name */
+
+#secondpara{
+    color: rgb(223, 92, 92);
+    background-color: black;
+}
+/* we can given color by using colour rgb  */
+#thirdpara{
+    color: #f12c2c;
+}
+/* we can given color by using hex code */
