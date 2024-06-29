@@ -1,0 +1,245 @@
+#custom-nav-link {
+    color: grey;
+    font-family: roboto;
+}
+
+#custom-nav-link1 {
+    color: grey;
+    font-family: roboto;
+}
+
+#custom-nav-link2 {
+    color: grey;
+    font-family: roboto;
+}
+
+#custom-nav-link3 {
+    color: grey;
+    font-family: roboto;
+}
+
+.img {
+    height: 5vh;
+    width: 5vw;
+}
+
+.banner-bg {
+    background-image: url("https://img.freepik.com/free-photo/top-view-ingredients-dryfruits-vegetables-black-background_23-2148026897.jpg?t=st=1709917998~exp=1709921598~hmac=5ee79e55600bbf283a4ad4e1cba3dd707d8115cc7f8c641da3915a6dcfa5ffba&w=740");
+    height: 80vh;
+    background-size: cover;
+
+}
+
+.banner-heading {
+    color: white;
+    font-family: roboto;
+    font-size: 40px;
+    font-weight: 300;
+}
+
+.caption {
+    color: #f5f7fa;
+    font-family: roboto;
+    font-weight: 300;
+    font-size: 30px;
+
+}
+
+.button-caption {
+    width: 145px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0px;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.button-caption1 {
+    width: 145px;
+    height: 45px;
+    background-color: transparent;
+    border-style: solid;
+    border-radius: 8px;
+    border-color: #d0b200;
+    border-width: 1px;
+    color: white;
+
+}
+
+
+
+.cen {
+    text-align: center;
+}
+
+.box_styling {
+    height: 300px;
+    padding: 20px;
+    border: 1px;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 1px;
+}
+
+
+
+
+.container {
+    background-color: skyblue;
+    background-size: cover;
+    height: 100vh;
+}
+
+.details {
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.box {
+
+    height: 300px;
+    width: 200px;
+
+}
+
+.head_style {
+    color: grey;
+    font-style: italic;
+}
+
+
+
+.text-section {
+    margin-top: 25px;
+}
+
+.button-styling {
+    border-radius: 8px;
+    height: 45px;
+    background-color: rgba(245, 245, 34, 0.863);
+    color: white;
+    border: 0px;
+}
+
+.imgg {
+    color: yellow;
+}
+
+.button-styling {
+    border-radius: 8px;
+    height: 45px;
+    width: 150px;
+    background-color: rgba(245, 245, 34, 0.863);
+    color: white;
+    border: 0px;
+}
+
+
+
+.text-section {
+    margin-top: 30px;
+}
+
+.img-styling {
+    /* height: 30px;
+    width: 20px; */
+    padding-right: 10px;
+}
+
+.button-styling {
+    border-radius: 8px;
+    height: 45px;
+    width: 150px;
+    background-color: rgba(245, 245, 34, 0.863);
+    color: white;
+    border: 0px;
+
+}
+
+
+
+
+.button-styling {
+    border-radius: 8px;
+    height: 45px;
+    width: 150px;
+    background-color: rgba(245, 245, 34, 0.863);
+    color: white;
+    border: 0px;
+
+}
+
+.cen {
+    background-image: radial-gradient(#fff8db, #fae38c);
+}
+
+.text-section {
+    margin-top: 25px;
+}
+
+
+
+
+.cent {
+    text-align: center;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+
+
+.twitter-circle {
+    height: 100px;
+    width: 100px;
+    background-color: #faf7e8ed;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.bi-twitter {
+    color: yellow;
+}
+
+.instagram-circle {
+    height: 100px;
+    width: 100px;
+    background-color: #faf7e8ed;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.bi-instagram {
+    color: yellow;
+}
+
+.facebook-circle {
+    height: 100px;
+    width: 100px;
+    background-color: #faf7e8ed;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.bi-facebook {
+    color: yellow;
+}
+
+
+
+.end-section {
+    background-color: #0d2436;
+    background-size: cover;
+    color: white;
+    padding: 50px;
+}
+
+.cen {
+    text-align: center;
+}
+
+.mrg {
+    margin-top: 30px;
+}

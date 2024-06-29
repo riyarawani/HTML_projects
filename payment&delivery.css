@@ -1,0 +1,16 @@
+.text-section{
+    margin-top: 30px;
+}
+
+.img-styling{
+    padding-right: 10px;
+}
+.button-styling{
+    border-radius: 8px;
+    height: 45px;
+    width: 150px;
+   background-color:rgba(245, 245, 34, 0.863);
+   color: white;
+   border: 0px;
+   
+}

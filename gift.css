@@ -1,0 +1,23 @@
+.button-styling{
+    border-radius: 8px;
+    height: 45px;
+    width: 150px;
+   background-color:rgba(245, 245, 34, 0.863);
+   color: white;
+   border: 0px;
+   
+}
+
+.cen{
+    background-image: radial-gradient(#fff8db, #fae38c);
+    height: 100vh;
+}
+
+.text-section{
+    margin-top: 25px;
+    margin-left: 40px;
+}
+.aaa{
+    height: 400px;
+    width: 400px;
+}

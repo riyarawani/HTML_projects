@@ -1,0 +1,30 @@
+
+.container{
+    background-color: skyblue;
+    background-size: cover;
+    height: 100vh;
+}
+.details{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+}
+
+.box{
+    
+    height: 300px;
+    width: 200px;
+   
+}
+
+.head_style{
+    color: grey;
+    font-style: italic;
+}
+
+.mrg{
+    margin-top: 20px;
+}
+#padd1{
+    padding-bottom: 20px;
+}

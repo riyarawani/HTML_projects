@@ -1,0 +1,29 @@
+.text-section{
+    margin-top: 30px;
+    /* margin-left: 60px; */
+}
+
+.button-styling{
+    border-radius: 8px;
+    height: 45px;
+   background-color:rgba(245, 245, 34, 0.863);
+   color: white;
+   border: 0px;
+}
+.imgg{
+    color: yellow;
+}
+.button-styling{
+    border-radius: 8px;
+    height: 45px;
+    width: 150px;
+   background-color:rgba(245, 245, 34, 0.863);
+   color: white;
+   border: 0px;
+}
+
+#bg-color{
+    background-color: #f2f5fa;
+    background-size: cover;
+    height: 650px;
+}
